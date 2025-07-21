@@ -223,7 +223,7 @@
                             <goal>repackage</goal>
                         </goals>
                         <configuration>
-                            <mainClass>com.phodal.remodern.mcp.OfficialMcpServer</mainClass>
+                            <mainClass>com.phodal.remodern.mcp.SimpleMcpServer</mainClass>
                             <classifier>mcp-server</classifier>
                         </configuration>
                     </execution>
