@@ -15,6 +15,9 @@ extensions:
 - [ ] Code generator
     - JavaPoet, KotlinPoet
     - [ts-morph](https://github.com/dsherret/ts-morph), [Recast](https://github.com/benjamn/recast)
+- [ ] Common infra
+    - [ ] Swagger/OpenAPI
+    - [ ] SCC
 - [ ] Runtime Fixer
     - Auto frontend fix with Playwright
 - [ ] Build Fixer
