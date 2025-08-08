@@ -18,6 +18,7 @@ extensions:
 - [ ] Common infra
     - [ ] Swagger/OpenAPI
     - [ ] SCC
+- [ ] Decompiler
 - [ ] Runtime Fixer
     - Auto frontend fix with Playwright
 - [ ] Build Fixer
