@@ -1,4 +1,4 @@
-# AutoDev MCP Extensions for Legacy Modernzation
+# ArchLift
 
 features:
 
